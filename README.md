@@ -27,6 +27,10 @@ AI FINANCIAL ANALYSIS PLATFORM WEB-APP:
 4. **NPV (Net Present Value)** - Evaluates project profitability
 5. **IRR (Internal Rate of Return)** - Determines investment yield
 
+# BUSINESS INTELLIGENCE ANALYSIS
+![BUSINESS INTELLIGENCE ANALYSIS](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/0cb1ad5d215d06f3650fcffd2f738de81719ae3d/images/BI%20DASHBOARD.png)  
+
+
 ### Key Capabilities
 - ✅ **Dual Input Methods**: Manual entry or batch upload (Excel/CSV)
 - ✅ **Live Calculations**: Real-time metric computation
