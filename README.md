@@ -111,6 +111,8 @@ WACC = (E/V) × Re + (D/V) × Rd × (1 - Tc)
 - Rd = Cost of debt
 - Tc = Corporate tax rate
 
+![](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/ee51f667e3becd0bcc1f9d64d45cf1a77836f86f/images/EBITA%20ANLYSIS.png) 
+
 ### ROI Formula
 ```
 ROI = (Final Value - Initial Investment) / Initial Investment
