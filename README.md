@@ -1,4 +1,4 @@
-# 💰 Automated Financial Metric Calculator
+# 💰 AI FINANCIAL ANALYSIS PLATFORM
 <div align="right">
   
 [1]: https://github.com/praveengouda25
@@ -10,9 +10,9 @@
 </div>
 
 
-# <div align="center">Telecom Customer Churn Prediction</div>
+# <div align="center">AI FINANCIAL ANALYSIS PLATFORM</div>
 
-![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+![AI FINANCIAL ANALYSIS PLATFORM][(https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/5738f03d8be8db27bd57f1fe7befa48a3bcccd5e/images/FIRST.png)] 
 
 
 A professional Python-based financial analysis tool that automates the calculation of sophisticated financial metrics with an interactive Streamlit dashboard.
