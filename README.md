@@ -83,6 +83,9 @@ The application will open in your default web browser at `http://localhost:8501`
 4. Click **"Calculate Metrics from File"**
 5. Download results as Excel file
 
+#**Revenue vs Cost vs Profit**
+![Revenue vs cost vs profit](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/1bcf314b8ec43d3df83c81c3d72eb831a28122a4/images/profit_plot.png) 
+
 ## 📋 Example Input File Format
 
 ### Excel/CSV Template
