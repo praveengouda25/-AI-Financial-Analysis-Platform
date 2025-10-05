@@ -130,8 +130,7 @@ NPV = Σ [CFt / (1 + r)^t] - Initial Investment
 - t = Time period
 
 # NET PRESENT VALUE(NPV):
-![NET PRESENT VALUE(NPV)](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/1bcf314b8ec43d3df83c81c3d72eb831a28122a4/images/profit_plot.png) 
-
+![NET PRESENT VALUE(NPV)](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/fb1163940fa38dcebdf12ade83b3c399a628f598/images/NPV.png) 
 
 
 
