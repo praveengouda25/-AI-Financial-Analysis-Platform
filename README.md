@@ -1,4 +1,3 @@
-# 💰 AI FINANCIAL ANALYSIS PLATFORM
 <div align="right">
   
 [1]: https://github.com/praveengouda25
@@ -10,9 +9,10 @@
 </div>
 
 
-# <div align="center">AI FINANCIAL ANALYSIS PLATFORM</div>
+# <div align="center"># 💰 AI FINANCIAL ANALYSIS PLATFORM</div>
 
-![AI FINANCIAL ANALYSIS PLATFORM][(https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/5738f03d8be8db27bd57f1fe7befa48a3bcccd5e/images/FIRST.png)] 
+![AI FINANCIAL ANALYSIS PLATFORM](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/5738f03d8be8db27bd57f1fe7befa48a3bcccd5e/images/FIRST.png)  
+
 
 
 A professional Python-based financial analysis tool that automates the calculation of sophisticated financial metrics with an interactive Streamlit dashboard.
