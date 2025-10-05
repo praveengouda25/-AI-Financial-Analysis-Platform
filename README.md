@@ -1,6 +1,7 @@
 # 💰 Automated Financial Metric Calculator
 
 A professional Python-based financial analysis tool that automates the calculation of sophisticated financial metrics with an interactive Streamlit dashboard.
+AI FINANCIAL ANALYSIS PLATFORM WEB-APP: 
 
 ## 📊 Features
 
