@@ -212,7 +212,11 @@ Each sheet includes:
 - Step-by-step calculations
 - Interpretations and decisions
 
-## 🏆 Hackathon Features
+![](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/aca5573bc34eb2a82bea384824a4d59596ab9d55/images/REVENUE%20COST%20PLOT.png)
+
+
+
+## 🏆Features
 
 - **Professional UI** - Modern, clean design
 - **Responsive Layout** - Works on all screen sizes
