@@ -9,7 +9,7 @@
 </div>
 
 
-# <div align="center"># 💰 Automated FINANCIAL ANALYSIS </div>
+# <div align="center"># 💰 AUTOMATED FINANCIAL ANALYSIS </div>
 
 ![AI FINANCIAL ANALYSIS PLATFORM](https://github.com/praveengouda25/-AI-Financial-Analysis-Platform/blob/5738f03d8be8db27bd57f1fe7befa48a3bcccd5e/images/FIRST.png)  
 
